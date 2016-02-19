@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _\<Lauren Graziani \>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<Febuary, 19 2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<Completing Exercises 1.3, 1.6, 1.9\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to write programs that use conversion,calculate interest rate, include docstrings, write powers and float numbers and also how to use sin and cos.\>_
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Lauren Graziani\>_
